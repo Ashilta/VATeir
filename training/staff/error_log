@@ -1,0 +1,79 @@
+[18-Jun-2015 19:53:21 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/staff/sliders.php on line 22
+[18-Jun-2015 19:53:21 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/staff/sliders.php on line 22
+[18-Jun-2015 19:53:39 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/staff/sliders.php on line 23
+[18-Jun-2015 19:53:39 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/staff/sliders.php on line 23
+[18-Jun-2015 19:54:09 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/staff/sliders.php on line 24
+[18-Jun-2015 19:54:09 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/staff/sliders.php on line 24
+[18-Jun-2015 19:54:35 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/staff/sliders.php on line 25
+[18-Jun-2015 19:54:35 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/staff/sliders.php on line 25
+[18-Jun-2015 19:54:37 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/staff/sliders.php on line 25
+[18-Jun-2015 19:54:37 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/staff/sliders.php on line 25
+[18-Jun-2015 19:55:04 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/staff/sliders.php on line 24
+[18-Jun-2015 19:55:04 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/staff/sliders.php on line 24
+[18-Jun-2015 19:55:19 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/staff/sliders.php on line 24
+[18-Jun-2015 19:55:19 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/staff/sliders.php on line 24
+[18-Jun-2015 21:32:28 Europe/Dublin] PHP Parse error:  syntax error, unexpected '"' in /home/longway1/public_html/vateir/training/staff/add.php on line 32
+[18-Jun-2015 21:32:36 Europe/Dublin] PHP Parse error:  syntax error, unexpected '"' in /home/longway1/public_html/vateir/training/staff/add.php on line 32
+[18-Jun-2015 21:32:37 Europe/Dublin] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/longway1/public_html/vateir/training/staff/add.php on line 32
+[18-Jun-2015 21:32:57 Europe/Dublin] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/longway1/public_html/vateir/training/staff/add.php on line 32
+[18-Jun-2015 21:52:10 Europe/Dublin] PHP Fatal error:  Call to undefined method Reports::addSlider() in /home/longway1/public_html/vateir/training/staff/add.php on line 30
+[18-Jun-2015 21:52:41 Europe/Dublin] PHP Fatal error:  Call to undefined method Reports::addSlider() in /home/longway1/public_html/vateir/training/staff/add.php on line 31
+[18-Jun-2015 21:53:15 Europe/Dublin] PHP Fatal error:  Call to undefined method Reports::addSlider() in /home/longway1/public_html/vateir/training/staff/add.php on line 31
+[18-Jun-2015 21:53:39 Europe/Dublin] PHP Fatal error:  Call to undefined method Reports::addSlider() in /home/longway1/public_html/vateir/training/staff/add.php on line 31
+[18-Jun-2015 21:54:21 Europe/Dublin] PHP Fatal error:  Call to undefined method Reports::addSlider() in /home/longway1/public_html/vateir/training/staff/add.php on line 32
+[18-Jun-2015 21:55:17 Europe/Dublin] PHP Fatal error:  Call to undefined method Reports::addSlide() in /home/longway1/public_html/vateir/training/staff/add.php on line 32
+[18-Jun-2015 22:05:16 Europe/Dublin] PHP Fatal error:  Cannot redeclare Reports::updateSlider() in /home/longway1/public_html/vateir/classes/Reports.php on line 291
+[18-Jun-2015 22:06:19 Europe/Dublin] PHP Warning:  array_merge(): Argument #2 is not an array in /home/longway1/public_html/vateir/classes/DB.php on line 131
+[18-Jun-2015 22:06:19 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/classes/DB.php on line 42
+[18-Jun-2015 22:06:19 Europe/Dublin] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/longway1/public_html/vateir/classes/DB.php on line 49
+[18-Jun-2015 22:06:19 Europe/Dublin] PHP Fatal error:  Uncaught exception 'Exception' with message 'There was a problem updating that slider.' in /home/longway1/public_html/vateir/classes/Reports.php:185
+Stack trace:
+#0 /home/longway1/public_html/vateir/training/staff/delete_slider.php(11): Reports->updateS(Array, Array)
+#1 {main}
+  thrown in /home/longway1/public_html/vateir/classes/Reports.php on line 185
+[18-Jun-2015 22:07:02 Europe/Dublin] PHP Warning:  array_merge(): Argument #2 is not an array in /home/longway1/public_html/vateir/classes/DB.php on line 131
+[18-Jun-2015 22:07:02 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/classes/DB.php on line 42
+[18-Jun-2015 22:07:02 Europe/Dublin] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/longway1/public_html/vateir/classes/DB.php on line 49
+[18-Jun-2015 22:07:02 Europe/Dublin] PHP Fatal error:  Uncaught exception 'Exception' with message 'There was a problem updating that slider.' in /home/longway1/public_html/vateir/classes/Reports.php:185
+Stack trace:
+#0 /home/longway1/public_html/vateir/training/staff/delete_slider.php(11): Reports->updateS(Array, Array)
+#1 {main}
+  thrown in /home/longway1/public_html/vateir/classes/Reports.php on line 185
+[18-Jun-2015 22:07:33 Europe/Dublin] PHP Warning:  array_merge(): Argument #2 is not an array in /home/longway1/public_html/vateir/classes/DB.php on line 131
+[18-Jun-2015 22:07:33 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/classes/DB.php on line 42
+[18-Jun-2015 22:07:33 Europe/Dublin] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/longway1/public_html/vateir/classes/DB.php on line 49
+[18-Jun-2015 22:07:43 Europe/Dublin] PHP Warning:  array_merge(): Argument #2 is not an array in /home/longway1/public_html/vateir/classes/DB.php on line 131
+[18-Jun-2015 22:07:43 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/classes/DB.php on line 42
+[18-Jun-2015 22:07:43 Europe/Dublin] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/longway1/public_html/vateir/classes/DB.php on line 49
+[18-Jun-2015 22:07:54 Europe/Dublin] PHP Warning:  array_merge(): Argument #2 is not an array in /home/longway1/public_html/vateir/classes/DB.php on line 131
+[18-Jun-2015 22:07:54 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/classes/DB.php on line 42
+[18-Jun-2015 22:07:54 Europe/Dublin] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/longway1/public_html/vateir/classes/DB.php on line 49
+[18-Jun-2015 22:08:37 Europe/Dublin] PHP Warning:  array_merge(): Argument #2 is not an array in /home/longway1/public_html/vateir/classes/DB.php on line 131
+[18-Jun-2015 22:08:37 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/classes/DB.php on line 42
+[18-Jun-2015 22:08:37 Europe/Dublin] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/longway1/public_html/vateir/classes/DB.php on line 49
+[18-Jun-2015 22:08:59 Europe/Dublin] PHP Warning:  array_merge(): Argument #2 is not an array in /home/longway1/public_html/vateir/classes/DB.php on line 131
+[18-Jun-2015 22:08:59 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/classes/DB.php on line 42
+[18-Jun-2015 22:08:59 Europe/Dublin] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/longway1/public_html/vateir/classes/DB.php on line 49
+[18-Jun-2015 22:09:01 Europe/Dublin] PHP Warning:  array_merge(): Argument #2 is not an array in /home/longway1/public_html/vateir/classes/DB.php on line 131
+[18-Jun-2015 22:09:01 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/classes/DB.php on line 42
+[18-Jun-2015 22:09:01 Europe/Dublin] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/longway1/public_html/vateir/classes/DB.php on line 49
+[18-Jun-2015 22:56:28 Europe/Dublin] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND), expecting ',' or ')' in /home/longway1/public_html/vateir/training/staff/edit_slider.php on line 92
+[18-Jun-2015 22:56:48 Europe/Dublin] PHP Parse error:  syntax error, unexpected ';' in /home/longway1/public_html/vateir/training/staff/edit_slider.php on line 92
+[18-Jun-2015 22:57:09 Europe/Dublin] PHP Parse error:  syntax error, unexpected ';' in /home/longway1/public_html/vateir/training/staff/edit_slider.php on line 92
+[18-Jun-2015 22:57:15 Europe/Dublin] PHP Parse error:  syntax error, unexpected ';' in /home/longway1/public_html/vateir/training/staff/edit_slider.php on line 93
+[18-Jun-2015 22:57:22 Europe/Dublin] PHP Parse error:  syntax error, unexpected ';' in /home/longway1/public_html/vateir/training/staff/edit_slider.php on line 93
+[18-Jun-2015 22:57:23 Europe/Dublin] PHP Parse error:  syntax error, unexpected ';' in /home/longway1/public_html/vateir/training/staff/edit_slider.php on line 93
+[18-Jun-2015 22:57:24 Europe/Dublin] PHP Parse error:  syntax error, unexpected ';' in /home/longway1/public_html/vateir/training/staff/edit_slider.php on line 93
+[18-Jun-2015 22:57:57 Europe/Dublin] PHP Parse error:  syntax error, unexpected '?>' in /home/longway1/public_html/vateir/training/staff/edit_slider.php on line 93
+[18-Jun-2015 22:58:04 Europe/Dublin] PHP Parse error:  syntax error, unexpected '?>' in /home/longway1/public_html/vateir/training/staff/edit_slider.php on line 93
+[18-Jun-2015 22:58:11 Europe/Dublin] PHP Parse error:  syntax error, unexpected '?>' in /home/longway1/public_html/vateir/training/staff/edit_slider.php on line 93
+[18-Jun-2015 22:59:35 Europe/Dublin] PHP Parse error:  syntax error, unexpected end of file in /home/longway1/public_html/vateir/training/staff/edit_slider.php on line 67
+[18-Jun-2015 23:02:01 Europe/Dublin] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/longway1/public_html/vateir/training/staff/edit_slider.php on line 98
+[18-Jun-2015 23:02:02 Europe/Dublin] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/longway1/public_html/vateir/training/staff/edit_slider.php on line 98
+[18-Jun-2015 23:02:35 Europe/Dublin] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/longway1/public_html/vateir/training/staff/edit_slider.php on line 99
+[18-Jun-2015 23:02:37 Europe/Dublin] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/longway1/public_html/vateir/training/staff/edit_slider.php on line 99
+[18-Jun-2015 23:02:38 Europe/Dublin] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/longway1/public_html/vateir/training/staff/edit_slider.php on line 99
+[18-Jun-2015 23:02:46 Europe/Dublin] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/longway1/public_html/vateir/training/staff/edit_slider.php on line 99
+[18-Jun-2015 23:02:47 Europe/Dublin] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/longway1/public_html/vateir/training/staff/edit_slider.php on line 99
+[18-Jun-2015 23:02:47 Europe/Dublin] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/longway1/public_html/vateir/training/staff/edit_slider.php on line 99
+[18-Jun-2015 23:02:55 Europe/Dublin] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/longway1/public_html/vateir/training/staff/edit_slider.php on line 99

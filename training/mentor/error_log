@@ -1,0 +1,6 @@
+[18-Jun-2015 22:11:40 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/mentor/schedule_session.php on line 109
+[18-Jun-2015 22:11:40 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/mentor/schedule_session.php on line 132
+[18-Jun-2015 22:12:57 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/mentor/schedule_session.php on line 109
+[18-Jun-2015 22:12:57 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/mentor/schedule_session.php on line 132
+[18-Jun-2015 22:26:14 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/mentor/add_note.php on line 117
+[18-Jun-2015 22:28:12 Europe/Dublin] PHP Warning:  Illegal string offset 'type' in /home/longway1/public_html/vateir/classes/Reports.php on line 56

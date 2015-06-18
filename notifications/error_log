@@ -1,0 +1,6 @@
+[18-Jun-2015 19:10:55 Europe/Dublin] PHP Parse error:  syntax error, unexpected ''id' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/longway1/public_html/vateir/notifications/view.php on line 38
+[18-Jun-2015 19:29:58 Europe/Dublin] PHP Fatal error:  Can't use function return value in write context in /home/longway1/public_html/vateir/notifications/add.php on line 6
+[18-Jun-2015 19:30:50 Europe/Dublin] PHP Fatal error:  Can't use function return value in write context in /home/longway1/public_html/vateir/notifications/add.php on line 6
+[18-Jun-2015 19:31:23 Europe/Dublin] PHP Fatal error:  Can't use function return value in write context in /home/longway1/public_html/vateir/notifications/add.php on line 6
+[18-Jun-2015 19:31:29 Europe/Dublin] PHP Fatal error:  Can't use function return value in write context in /home/longway1/public_html/vateir/notifications/add.php on line 6
+[18-Jun-2015 19:32:23 Europe/Dublin] PHP Fatal error:  Can't use function return value in write context in /home/longway1/public_html/vateir/notifications/add.php on line 6
