@@ -1,0 +1,8 @@
+[19-Jun-2015 21:13:01 Europe/Dublin] PHP Parse error:  syntax error, unexpected '@', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/longway1/public_html/vateir/controllers/profile.php on line 5
+[19-Jun-2015 21:13:02 Europe/Dublin] PHP Parse error:  syntax error, unexpected '@', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/longway1/public_html/vateir/controllers/profile.php on line 5
+[20-Jun-2015 01:23:47 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/controllers/profile.php on line 109
+[20-Jun-2015 01:24:07 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/controllers/profile.php on line 109
+[20-Jun-2015 01:24:09 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/controllers/profile.php on line 109
+[20-Jun-2015 01:26:56 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/controllers/profile.php on line 110
+[20-Jun-2015 02:10:15 Europe/Dublin] PHP Fatal error:  Class 'Training' not found in /home/longway1/public_html/vateir/controllers/includes/header.php on line 5
+[20-Jun-2015 02:23:59 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/controllers/profile.php on line 79
