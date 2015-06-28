@@ -1,0 +1,6 @@
+[26-Jun-2015 18:43:44 Europe/Dublin] PHP Fatal error:  Cannot redeclare Training::getControllers() in /home/longway1/public_html/vateir/classes/Training.php on line 212
+[26-Jun-2015 19:08:04 Europe/Dublin] PHP Parse error:  syntax error, unexpected 'Helvetica' (T_STRING) in /home/longway1/public_html/vateir/email/mail.php on line 18
+[26-Jun-2015 21:31:19 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/email/mail.php on line 82
+[26-Jun-2015 21:34:11 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/email/mail.php on line 82
+[26-Jun-2015 22:04:50 Europe/Dublin] PHP Parse error:  syntax error, unexpected '{' in /home/longway1/public_html/vateir/email/unsubscribe.php on line 5
+[26-Jun-2015 22:05:12 Europe/Dublin] PHP Parse error:  syntax error, unexpected '{' in /home/longway1/public_html/vateir/email/unsubscribe.php on line 5

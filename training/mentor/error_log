@@ -4,3 +4,62 @@
 [18-Jun-2015 22:12:57 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/mentor/schedule_session.php on line 132
 [18-Jun-2015 22:26:14 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/mentor/add_note.php on line 117
 [18-Jun-2015 22:28:12 Europe/Dublin] PHP Warning:  Illegal string offset 'type' in /home/longway1/public_html/vateir/classes/Reports.php on line 56
+[27-Jun-2015 20:29:12 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/mentor/schedule_session.php on line 109
+[27-Jun-2015 20:29:12 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/mentor/schedule_session.php on line 132
+[27-Jun-2015 20:50:56 Europe/Dublin] PHP Parse error:  syntax error, unexpected 'require_once' (T_REQUIRE_ONCE) in /home/longway1/public_html/vateir/training/mentor/schedule_session.php on line 3
+[27-Jun-2015 21:08:26 Europe/Dublin] PHP Parse error:  syntax error, unexpected end of file in /home/longway1/public_html/vateir/training/mentor/add_report.php on line 221
+[27-Jun-2015 23:48:03 Europe/Dublin] PHP Parse error:  syntax error, unexpected ''<div class="form-group">' (T_ENCAPSED_AND_WHITESPACE) in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 236
+[27-Jun-2015 23:49:02 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/classes/DB.php on line 42
+[27-Jun-2015 23:49:02 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 120
+[27-Jun-2015 23:49:02 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 145
+[27-Jun-2015 23:49:22 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/classes/DB.php on line 42
+[27-Jun-2015 23:49:22 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 121
+[27-Jun-2015 23:49:22 Europe/Dublin] PHP Warning:  Invalid argument supplied for foreach() in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 146
+[28-Jun-2015 00:45:01 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 223
+[28-Jun-2015 00:45:01 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 234
+[28-Jun-2015 00:45:01 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 245
+[28-Jun-2015 00:45:53 Europe/Dublin] PHP Parse error:  syntax error, unexpected end of file in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 54
+[28-Jun-2015 00:45:55 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 223
+[28-Jun-2015 00:45:55 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 234
+[28-Jun-2015 00:45:55 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 245
+[28-Jun-2015 00:46:07 Europe/Dublin] PHP Parse error:  syntax error, unexpected end of file in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 234
+[28-Jun-2015 00:46:09 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 223
+[28-Jun-2015 00:46:09 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 234
+[28-Jun-2015 00:46:09 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 245
+[28-Jun-2015 00:46:19 Europe/Dublin] PHP Parse error:  syntax error, unexpected end of file in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 234
+[28-Jun-2015 00:46:20 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 223
+[28-Jun-2015 00:46:20 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 234
+[28-Jun-2015 00:46:20 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 245
+[28-Jun-2015 00:46:41 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 223
+[28-Jun-2015 00:46:41 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 234
+[28-Jun-2015 00:46:41 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 245
+[28-Jun-2015 00:47:04 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 223
+[28-Jun-2015 00:47:04 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 234
+[28-Jun-2015 00:47:04 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 245
+[28-Jun-2015 00:47:21 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 223
+[28-Jun-2015 00:47:21 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 234
+[28-Jun-2015 00:47:21 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 245
+[28-Jun-2015 00:48:29 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 224
+[28-Jun-2015 00:48:29 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 235
+[28-Jun-2015 00:48:29 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 246
+[28-Jun-2015 00:48:31 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 224
+[28-Jun-2015 00:48:31 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 235
+[28-Jun-2015 00:48:31 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 246
+[28-Jun-2015 00:48:33 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 224
+[28-Jun-2015 00:48:33 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 235
+[28-Jun-2015 00:48:33 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 246
+[28-Jun-2015 00:49:19 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 229
+[28-Jun-2015 00:49:19 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 240
+[28-Jun-2015 00:49:19 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 251
+[28-Jun-2015 00:49:40 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 228
+[28-Jun-2015 00:49:40 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 239
+[28-Jun-2015 00:49:40 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 250
+[28-Jun-2015 00:50:19 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 229
+[28-Jun-2015 00:50:19 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 240
+[28-Jun-2015 00:50:19 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 251
+[28-Jun-2015 00:50:59 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 229
+[28-Jun-2015 00:50:59 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 240
+[28-Jun-2015 00:50:59 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 251
+[28-Jun-2015 00:51:03 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 229
+[28-Jun-2015 00:51:03 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 240
+[28-Jun-2015 00:51:03 Europe/Dublin] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/longway1/public_html/vateir/training/mentor/edit_report.php on line 251
